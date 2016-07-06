@@ -498,4 +498,4 @@ def rank_properties(resource):
     return ans
 
 
-print rank_properties("Facebook")
+print rank_properties("Google")
